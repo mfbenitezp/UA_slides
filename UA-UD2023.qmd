@@ -13,6 +13,7 @@ format:
         data-background-opacity: "0.5"
         data-background-video-loop: true
         data-background-color: black
+     
      execute:
         echo: true
         jupyter: python3
@@ -24,7 +25,7 @@ format:
 
 **Prof Michael Goodchild:** "Nueva área de investigación que explora la vasta cantidad de recursos de datos provenientes de las redes sociales, crowdsourcing y redes de sensores"
 
-![](img/UA_book.jpeg){width="80%" fig-align="left"}
+![](img/UA_book.jpeg){width="80%" fig-align="center"}
 
 -   Batty, M. (2019). Urban analytics defined. *Environment and Planning B: Urban Analytics and City Science*, *46*(3), 403--405. <https://doi.org/10.1177/2399808319839494>
 
@@ -95,10 +96,18 @@ A pesar de los avances actuales aún hay mucho por avanzar.
 
 # Muchas gracias por su atención {background-video="img/bogota.mp4" background-color="black" background-opacity="0.5"}
 
--   [St Andrews Profile](https://www.st-andrews.ac.uk/geography-sustainable-development/people/mfbp1/)
+::: columns
+::: {.column width="30%"}
+![](img/qrcode.png){.border .border-thick}
+:::
+
+::: {.column width="70%"}
+-   [U. St Andrews Profile](https://www.st-andrews.ac.uk/geography-sustainable-development/people/mfbp1/)
 -   Twitter: [\@mfbenitez](https://twitter.com/mfbenitez)
 -   LinkedIn: [mfbenitezp](https://www.linkedin.com/in/mfbenitezp/)
 -   Website: <https://fernandobenitez.co>
+:::
+:::
 
 # Colouring Cities Research Programme {background-image="img/C_bogota.png" background-color="black" background-opacity="0.4"}
 
