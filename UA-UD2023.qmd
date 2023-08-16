@@ -30,7 +30,7 @@ format:
 
 -   Singleton, A.D., Spielman, S. and Folch, D., 2017. Urban analytics. Sage.
 
-## Que es la Analítica Urbana {background-video="/img/traffic.mp4" background-video-loop="true" background-opacity="0.5" background-color="black"}
+## Que es la Analítica Urbana {background-video="img/traffic.mp4" background-video-loop="true" background-opacity="0.5" background-color="black"}
 
 Campo de investigación que usa ciencia de datos (**geográficos**) y recientemente técnicas de inteligencia artificial (**más que regresiones**) para comprender mejor los problemas y retos de los ambientes urbanos.
 
@@ -93,14 +93,14 @@ A pesar de los avances actuales aún hay mucho por avanzar.
 
 -   **Colouring Cities Research Programme**, Instituto Alan Turing
 
-# Muchas gracias por su atención {background-video="/img/bogota.mp4" background-color="black" background-opacity="0.5"}
+# Muchas gracias por su atención {background-video="img/bogota.mp4" background-color="black" background-opacity="0.5"}
 
 -   [St Andrews Profile](https://www.st-andrews.ac.uk/geography-sustainable-development/people/mfbp1/)
 -   Twitter: [\@mfbenitez](https://twitter.com/mfbenitez)
 -   LinkedIn: [mfbenitezp](https://www.linkedin.com/in/mfbenitezp/)
 -   Website: <https://fernandobenitez.co>
 
-# Colouring Cities Research Programme {background-image="/img/C_bogota.png" background-color="black" background-opacity="0.4"}
+# Colouring Cities Research Programme {background-image="img/C_bogota.png" background-color="black" background-opacity="0.4"}
 
 **Dra Polly Hudson**
 
