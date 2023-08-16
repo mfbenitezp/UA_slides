@@ -9,7 +9,7 @@ format:
      incremental: false
      slide-number: true
      title-slide-attributes:
-        data-background-video: /img/bogota.mp4
+        data-background-video: img/bogota.mp4
         data-background-opacity: "0.5"
         data-background-video-loop: true
         data-background-color: black
@@ -45,7 +45,7 @@ Campo de amplio crecimiento y evolución particularmente en los últimos años, 
 -   mejores y más eficientes herramientas web,
 -   modelos y métodos de simulación de agentes
 
-Un ejemplo es el **uso de tecnologías de sensores para dar a los investigadores información en tiempo real del tráfico, de la calidad del aire, de la movilidad de los ciudadanos.** 
+Un ejemplo es el **uso de tecnologías de sensores para dar a los investigadores información en tiempo real del tráfico, de la calidad del aire, de la movilidad de los ciudadanos.**
 
 Con la combinación de datos de sensores remotos (cercanos y satelitales) es posible crear procesos de fusión de datos crear simulaciones o modelos que representen algún aspecto de los ambientes urbanos dando a los investigadores la flexibilidad de **probar con anterioridad las políticas públicas.**
 
@@ -89,22 +89,21 @@ A pesar de los avances actuales aún hay mucho por avanzar.
 
     -   Inequidad
 
-- **Science of cities and Regions**, Instituto Alan Turing -- El estudio de las regiones toma más protagonismo.
+-   **Science of cities and Regions**, Instituto Alan Turing -- El estudio de las regiones toma más protagonismo.
 
-- **Colouring Cities Research Programme**, Instituto Alan Turing
+-   **Colouring Cities Research Programme**, Instituto Alan Turing
 
 # Muchas gracias por su atención {background-video="/img/bogota.mp4" background-color="black" background-opacity="0.5"}
 
-- [St Andrews Profile](https://www.st-andrews.ac.uk/geography-sustainable-development/people/mfbp1/)
-- Twitter: [@mfbenitez](https://twitter.com/mfbenitez)
-- LinkedIn: [mfbenitezp](https://www.linkedin.com/in/mfbenitezp/)
-- Website: [https://fernandobenitez.co](https://fernandobenitez.co)
+-   [St Andrews Profile](https://www.st-andrews.ac.uk/geography-sustainable-development/people/mfbp1/)
+-   Twitter: [\@mfbenitez](https://twitter.com/mfbenitez)
+-   LinkedIn: [mfbenitezp](https://www.linkedin.com/in/mfbenitezp/)
+-   Website: <https://fernandobenitez.co>
 
-# Colouring Cities Research Programme   {background-image="/img/C_bogota.png" background-color="black" background-opacity="0.4"}
+# Colouring Cities Research Programme {background-image="/img/C_bogota.png" background-color="black" background-opacity="0.4"}
 
 **Dra Polly Hudson**
 
 Senior Research Fellow, The Alan Turing Institute, The UK
 
-**Project Lead**:  Colouring Cities Research Programme  
-
+**Project Lead**: Colouring Cities Research Programme
