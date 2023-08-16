@@ -1,0 +1,110 @@
+---
+title: "Qué es Analítica Urbana, retos y oportunidades"
+subtitle: "Simposio de Analítica Urbana"
+author: "Dr Fernando Benitez-Paez"
+institute: The University of St Andrews, Scotland
+date: 08/16/2023
+format: 
+    revealjs:
+     incremental: false
+     slide-number: true
+     title-slide-attributes:
+        data-background-video: /img/bogota.mp4
+        data-background-opacity: "0.5"
+        data-background-video-loop: true
+        data-background-color: black
+     execute:
+        echo: true
+        jupyter: python3
+---
+
+## Que es la Analítica Urbana {.smaller}
+
+**Prof Michael Batty**: "La analítica urbana una tendencia de amplio crecimiento centrada en las herramientas usadas para tratar problemas de Big Data, Simulación Urbana, y geo-demografía."
+
+**Prof Michael Goodchild:** "Nueva área de investigación que explora la vasta cantidad de recursos de datos provenientes de las redes sociales, crowdsourcing y redes de sensores"
+
+![](img/UA_book.jpeg){width="80%" fig-align="left"}
+
+-   Batty, M. (2019). Urban analytics defined. *Environment and Planning B: Urban Analytics and City Science*, *46*(3), 403--405. <https://doi.org/10.1177/2399808319839494>
+
+-   Singleton, A.D., Spielman, S. and Folch, D., 2017. Urban analytics. Sage.
+
+## Que es la Analítica Urbana {background-video="/img/traffic.mp4" background-video-loop="true" background-opacity="0.5" background-color="black"}
+
+Campo de investigación que usa ciencia de datos (**geográficos**) y recientemente técnicas de inteligencia artificial (**más que regresiones**) para comprender mejor los problemas y retos de los ambientes urbanos.
+
+Usa una vasta cantidad de fuentes de datos, que incluyen redes de sensores, social media, y datos de entidades públicas para crear modelos, **métodos**, y **análisis** que ayuden a los urbanistas, creadores de políticas, investigadores, y entidades del sector publico o privado a **tomar decisiones basados en datos.**
+
+## Estado actual {.smaller}
+
+Campo de amplio crecimiento y evolución particularmente en los últimos años, vemos progreso en:
+
+-   el uso masivo de datos,
+-   creación de poblaciones sintéticas,
+-   mejores y más eficientes herramientas web,
+-   modelos y métodos de simulación de agentes
+
+Un ejemplo es el **uso de tecnologías de sensores para dar a los investigadores información en tiempo real del tráfico, de la calidad del aire, de la movilidad de los ciudadanos.** 
+
+Con la combinación de datos de sensores remotos (cercanos y satelitales) es posible crear procesos de fusión de datos crear simulaciones o modelos que representen algún aspecto de los ambientes urbanos dando a los investigadores la flexibilidad de **probar con anterioridad las políticas públicas.**
+
+# Congestión Vial {background-image="img/Bogota_Traffic.jpeg" background-color="black" background-opacity="0.5"}
+
+AU puede aplicarse para rastrear el tráfico, identificar áreas donde se desarrolla más congestión, y simular potenciales solucione que integran múltiples variables.
+
+# Salud Pública {background-image="img/RAMPUA.png" background-color="black" background-opacity="0.5"}
+
+AU puede ser aplicada para rastrear la calidad del aire, entender los patrones de movimiento de los ciudadanos, identificar áreas de mayor polución, áreas de mayor contagio, rastrear vectores de infección. Simular potenciales afectaciones de una enfermedad en un conjunto de individuos "sintéticos" para establecer áreas de mayor o menor afectación.
+
+# Análisis de Crimen {background-image="img/crime.jpg" background-color="black" background-opacity="0.5"}
+
+AU se puede utilizar para rastrear las tasas de delincuencia e identificar áreas donde la delincuencia es un problema. Esta información se puede usar para desplegar agentes de policía de manera más efectiva o para programas de prevención específicos en áreas de alto riesgo.
+
+# Sostenibilidad {background-image="img/bogota_sus.jpeg" background-color="black" background-opacity="0.5"}
+
+UA puede usarse para rastrear el impacto ambiental de las ciudades o regiones e identificar áreas donde se pueden realizar mejoras asociadas a la sostenibilidad. Esta información se puede utilizar para desarrollar políticas y programas para reducir las emisiones de gases de efecto invernadero, mejorar la eficiencia energética y promover el transporte sostenible.
+
+## Retos {background-image="img/bogota_sus.jpeg" background-color="black" background-opacity="0.3"}
+
+A pesar de los avances actuales aún hay mucho por avanzar.
+
+-   Falta de formatos estándar de datos y protocolos para promover el reusó.
+-   Poco acceso a datos poblacionales y demográficos a grano fino (grandes escalas)
+-   Problemas de privacidad (poblaciones sintéticas)
+-   Validación y Calibración de modelos regionales y nacionales
+-   Mejor accesibilidad e interpretación de los resultados de AU con una audiencia más amplia.
+
+# Oportunidades {.smaller background-image="img/bogota_sus.jpeg" background-color="black" background-opacity="0.3"}
+
+**Bogotá** como catalizador de ideas, proyectos y fuente de datos.
+
+    -   Mobilidad
+
+    -   Crimen
+
+    -   Sustenibilidad
+
+    -   Accesibilidad
+
+    -   Inequidad
+
+- **Science of cities and Regions**, Instituto Alan Turing -- El estudio de las regiones toma más protagonismo.
+
+- **Colouring Cities Research Programme**, Instituto Alan Turing
+
+# Muchas gracias por su atención {background-video="/img/bogota.mp4" background-color="black" background-opacity="0.5"}
+
+- [St Andrews Profile](https://www.st-andrews.ac.uk/geography-sustainable-development/people/mfbp1/)
+- Twitter: [@mfbenitez](https://twitter.com/mfbenitez)
+- LinkedIn: [mfbenitezp](https://www.linkedin.com/in/mfbenitezp/)
+- Website: [https://fernandobenitez.co](https://fernandobenitez.co)
+
+# Colouring Cities Research Programme   {background-image="/img/C_bogota.png" background-color="black" background-opacity="0.4"}
+
+**Dra Polly Hudson**
+
+Senior Research Fellow, The Alan Turing Institute, The UK
+
+**Project Lead**:  Colouring Cities Research Programme  
+

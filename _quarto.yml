@@ -1,0 +1,8 @@
+project:
+  title: "Analítica Urbana - Simposio UD 2023"
+
+execute:
+  freeze: auto
+
+editor: visual
+
